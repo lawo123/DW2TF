@@ -1,0 +1,2 @@
+model_checkpoint_path: "yolov4-tiny.ckpt"
+all_model_checkpoint_paths: "yolov4-tiny.ckpt"
